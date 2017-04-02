@@ -1,2 +1,2 @@
-# light-css-menubar
-simple and light css menubar which is very easy to custamize
+# light css menubar
+simple and light css menubar which is very easy to customize.
